@@ -50,7 +50,7 @@ trace = [
 Assuming an operating frequency of 1 GHz, you can run the code as follows:
 
 ```bash
-python analyze_trace.py example_trace.py
+python gh_2024_silicon_engineering.py
 ```
 
 ## Additional Information

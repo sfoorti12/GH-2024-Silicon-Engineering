@@ -26,7 +26,7 @@ This tool is designed to analyze simulation traces, calculating the average read
 2. **Run the Code**: Execute the Python script, providing the path to your trace file as an argument.
 
     ```bash
-    python gh_2024_silicon_engineering.py.py
+    python gh_2024_silicon_engineering.py
     ```
 
 3. **Interpret Results**: The tool will output the average read latency in cycles and the bandwidth in Bytes/sec based on the provided trace.
